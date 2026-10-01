@@ -1,0 +1,7 @@
+Flask>=3.0
+Flask-SQLAlchemy>=3.1
+python-dotenv>=1.0
+pypdf>=4.0
+gunicorn>=22.0
+# only needed if you use PostgreSQL:
+# psycopg2-binary>=2.9
